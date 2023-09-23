@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "chapter1Strategy": "node --loader ts-node/esm ./src/charter1Strategy/index.mts"
+    "chapter1Strategy": "node --loader ts-node/esm ./src/chapter1Strategy/index.mts"
   },
   "devDependencies": {
     "@types/node": "^20.6.3",

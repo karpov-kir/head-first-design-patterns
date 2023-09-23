@@ -9,4 +9,4 @@ TypeScript implementation of patterns from the Head First Design Patterns (Secon
 
 ## Patterns
 
-- [Chapter 1: Strategy Pattern](src/chapter1Strategy)
+- [Chapter 1: Strategy Pattern](./src/chapter1Strategy)
