@@ -10,3 +10,5 @@ TypeScript implementation of patterns from the Head First Design Patterns (Secon
 ## Patterns
 
 - [Chapter 1: Strategy Pattern](./src/chapter1Strategy)
+- [Chapter 2: Observer Pattern](./src/chapter2Observer)
+- [Chapter 3: Decorator Pattern](./src/chapter3Decorator)
