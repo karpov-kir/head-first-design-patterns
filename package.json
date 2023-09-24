@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "chapter1Strategy": "node --loader ts-node/esm ./src/chapter1Strategy/index.mts",
-    "chapter2Observer": "node --loader ts-node/esm ./src/chapter2Observer/index.mts"
+    "chapter2Observer": "node --loader ts-node/esm ./src/chapter2Observer/index.mts",
+    "chapter3Decorator": "node --loader ts-node/esm ./src/chapter3Decorator/index.mts"
   },
   "devDependencies": {
     "@types/node": "^20.6.3",
