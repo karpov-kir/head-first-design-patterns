@@ -1,8 +1,8 @@
-import { Duck } from './duck/Duck.mjs';
-import { MallardDuck } from './duck/MallardDuck.mjs';
-import { ModelDuck } from './duck/ModelDuck.mjs';
-import { RedheadDuck } from './duck/RedheadDuck.mjs';
-import { RubberDuck } from './duck/RubberDuck.mjs';
+import { Duck } from './ducks/Duck.mjs';
+import { MallardDuck } from './ducks/MallardDuck.mjs';
+import { ModelDuck } from './ducks/ModelDuck.mjs';
+import { RedheadDuck } from './ducks/RedheadDuck.mjs';
+import { RubberDuck } from './ducks/RubberDuck.mjs';
 import { FlyRocketPowered } from './flyBehavior/FlyRocketPowered.mjs';
 
 export class MiniDuckSimulator {
