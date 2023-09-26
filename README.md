@@ -10,5 +10,15 @@ TypeScript implementation of patterns from the Head First Design Patterns (Secon
 ## Patterns
 
 - [Chapter 1: Strategy Pattern](./src/chapter1Strategy)
+  - `npm run chapter1Strategy`
 - [Chapter 2: Observer Pattern](./src/chapter2Observer)
+  - `npm run chapter2Observer`
 - [Chapter 3: Decorator Pattern](./src/chapter3Decorator)
+  - `npm run chapter3Decorator`
+- [Chapter 4: Factory Pattern](./src/chapter4Factory)
+  - [Simple Factory](./src/chapter4Factory/simpleFactory/)
+    - `npm run chapter4SimpleFactory`
+  - [Factory Method](./src/chapter4Factory/factoryMethod/)
+    - `npm run chapter4FactoryMethod`
+  - [Abstract Factory](./src/chapter4Factory/abstractFactory/)
+    - `npm run chapter4AbstractFactory`

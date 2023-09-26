@@ -6,7 +6,10 @@
   "scripts": {
     "chapter1Strategy": "node --loader ts-node/esm ./src/chapter1Strategy/index.mts",
     "chapter2Observer": "node --loader ts-node/esm ./src/chapter2Observer/index.mts",
-    "chapter3Decorator": "node --loader ts-node/esm ./src/chapter3Decorator/index.mts"
+    "chapter3Decorator": "node --loader ts-node/esm ./src/chapter3Decorator/index.mts",
+    "chapter4SimpleFactory": "node --loader ts-node/esm ./src/chapter4Factory/simpleFactory/index.mts",
+    "chapter4FactoryMethod": "node --loader ts-node/esm ./src/chapter4Factory/factoryMethod/index.mts",
+    "chapter4AbstractFactory": "node --loader ts-node/esm ./src/chapter4Factory/abstractFactory/index.mts"
   },
   "devDependencies": {
     "@types/node": "^20.6.3",
