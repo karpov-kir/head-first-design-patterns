@@ -9,8 +9,7 @@ export interface WeatherConditions {
 
 /**
  * I decided to implement the push model (pass weather conditions object to observers) for this example.
- * I think this is sufficient for this task.
- * Also, the WeatherConditions interface make coupling more loose as well.
+ * I think this is sufficient for this task. The WeatherConditions interface makes coupling more loose as well.
  */
 export class WeatherData implements Subject<WeatherConditions> {
   private observers: Observer<WeatherConditions>[] = [];
