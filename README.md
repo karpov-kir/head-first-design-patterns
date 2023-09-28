@@ -22,3 +22,5 @@ TypeScript implementation of patterns from the Head First Design Patterns (Secon
     - `npm run chapter4FactoryMethod`
   - [Abstract Factory](./src/chapter4Factory/abstractFactory/)
     - `npm run chapter4AbstractFactory`
+- [Singleton](./src/chapter5Singleton)
+  - `npm run chapter5Singleton`
