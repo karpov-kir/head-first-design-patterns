@@ -1,5 +1,5 @@
 import { Dough } from './Dough.mjs';
 
-export class ThinCrustDough implements Dough {
-  public name = 'Thin Crust Dough';
+export class ThinCrustDough extends Dough {
+  public readonly name = 'Thin Crust Dough';
 }

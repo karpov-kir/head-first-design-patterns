@@ -1,5 +1,5 @@
 import { Cheese } from './Cheese.mjs';
 
-export class MozarellaCheese implements Cheese {
-  public name = 'Mozarella Cheese';
+export class MozarellaCheese extends Cheese {
+  public readonly name = 'Mozarella Cheese';
 }

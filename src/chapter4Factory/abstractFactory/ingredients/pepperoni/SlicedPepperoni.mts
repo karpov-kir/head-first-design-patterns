@@ -1,5 +1,5 @@
 import { Pepperoni } from './Pepperoni.mjs';
 
-export class SlicePepperoni implements Pepperoni {
-  public name = 'Slice Pepperoni';
+export class SlicePepperoni extends Pepperoni {
+  public readonly name = 'Slice Pepperoni';
 }

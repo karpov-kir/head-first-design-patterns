@@ -1,5 +1,5 @@
 import { Clams } from './Clams.mjs';
 
-export class FreshClams implements Clams {
-  public name = 'Fresh Clams';
+export class FreshClams extends Clams {
+  public readonly name = 'Fresh Clams';
 }

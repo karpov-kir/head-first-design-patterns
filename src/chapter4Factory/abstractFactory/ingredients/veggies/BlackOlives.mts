@@ -1,5 +1,5 @@
 import { Veggies } from './Veggies.mjs';
 
-export class BlackOlives implements Veggies {
-  name = 'Black Olives';
+export class BlackOlives extends Veggies {
+  public readonly name = 'Black Olives';
 }

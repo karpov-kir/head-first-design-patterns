@@ -1,5 +1,5 @@
 import { Sauce } from './Sauce.mjs';
 
-export class PlumTomatoSauce implements Sauce {
-  public name = 'Plum Tomato Sauce';
+export class PlumTomatoSauce extends Sauce {
+  public readonly name = 'Plum Tomato Sauce';
 }
