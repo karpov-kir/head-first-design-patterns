@@ -29,3 +29,8 @@ TypeScript implementation of patterns from the Head First Design Patterns (Secon
     - `npm run chapter6Command`
   - [Macro Command](./src/chapter6Command/macroCommand)
     - `npm run chapter6MacroCommand`
+- [Chapter 7: Adapter and Facade](./src/chapter7AdapterAndFacade)
+  - [Adapter](./src/chapter7AdapterAndFacade/adapter)
+    - `npm run chapter7Adapter`
+  - [Facade](./src/chapter7AdapterAndFacade/facade)
+    - `npm run chapter7Facade`

@@ -12,7 +12,9 @@
     "chapter4AbstractFactory": "node --loader ts-node/esm ./src/chapter4Factory/abstractFactory/index.mts",
     "chapter5Singleton": "node --loader ts-node/esm ./src/chapter5Singleton/index.mts",
     "chapter6Command": "node --loader ts-node/esm ./src/chapter6Command/command/index.mts",
-    "chapter6MacroCommand": "node --loader ts-node/esm ./src/chapter6Command/macroCommand/index.mts"
+    "chapter6MacroCommand": "node --loader ts-node/esm ./src/chapter6Command/macroCommand/index.mts",
+    "chapter7Adapter": "node --loader ts-node/esm ./src/chapter7AdapterAndFacade/adapter/index.mts",
+    "chapter7Facade": "node --loader ts-node/esm ./src/chapter7AdapterAndFacade/facade/index.mts"
   },
   "devDependencies": {
     "@types/node": "^20.6.3",
