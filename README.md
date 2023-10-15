@@ -34,3 +34,5 @@ TypeScript implementation of patterns from the Head First Design Patterns (Secon
     - `npm run chapter7Adapter`
   - [Facade](./src/chapter7AdapterAndFacade/facade)
     - `npm run chapter7Facade`
+- [Chapter 8: Template Method Pattern](./src/chapter8TemplateMethod)
+  - `npm run chapter8TemplateMethod`
