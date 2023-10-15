@@ -24,3 +24,8 @@ TypeScript implementation of patterns from the Head First Design Patterns (Secon
     - `npm run chapter4AbstractFactory`
 - [Singleton](./src/chapter5Singleton)
   - `npm run chapter5Singleton`
+- [Command Pattern](./src/chapter6Command)
+  - [Command](./src/chapter6Command/command)
+    - `npm run chapter6Command`
+  - [Macro Command](./src/chapter6Command/macroCommand)
+    - `npm run chapter6MacroCommand`
