@@ -41,3 +41,5 @@ TypeScript implementation of patterns from the Head First Design Patterns (Secon
     - `npm run chapter9Iterator`
   - [Composite](./src/chapter9Iterator/composite)
     - `npm run chapter9Composite`
+- [Chapter 10: State Pattern](./src/chapter10State)
+  - `npm run chapter10State`
