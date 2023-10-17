@@ -36,3 +36,8 @@ TypeScript implementation of patterns from the Head First Design Patterns (Secon
     - `npm run chapter7Facade`
 - [Chapter 8: Template Method Pattern](./src/chapter8TemplateMethod)
   - `npm run chapter8TemplateMethod`
+- [Chapter 9: Iterator Pattern](./src/chapter9Iterator)
+  - [Iterator](./src/chapter9Iterator/iterator)
+    - `npm run chapter9Iterator`
+  - [Composite](./src/chapter9Iterator/composite)
+    - `npm run chapter9Composite`

@@ -15,7 +15,9 @@
     "chapter6MacroCommand": "node --loader ts-node/esm ./src/chapter6Command/macroCommand/index.mts",
     "chapter7Adapter": "node --loader ts-node/esm ./src/chapter7AdapterAndFacade/adapter/index.mts",
     "chapter7Facade": "node --loader ts-node/esm ./src/chapter7AdapterAndFacade/facade/index.mts",
-    "chapter8TemplateMethod": "node --loader ts-node/esm ./src/chapter8TemplateMethod/index.mts"
+    "chapter8TemplateMethod": "node --loader ts-node/esm ./src/chapter8TemplateMethod/index.mts",
+    "chapter9Iterator": "node --loader ts-node/esm ./src/chapter9Iterator/iterator/index.mts",
+    "chapter9Composite": "node --loader ts-node/esm ./src/chapter9Iterator/composite/index.mts"
   },
   "devDependencies": {
     "@types/node": "^20.6.3",
