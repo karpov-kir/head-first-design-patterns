@@ -43,7 +43,7 @@ export class RemoteControl {
   }
 
   public toString(): string {
-    let output = '\n------ Remote Control ------\n';
+    let output = '------ Remote Control ------\n';
 
     for (let i = 0; i < this.onCommands.length; i++) {
       output += `[slot ${i}] ${this.onCommands[i].constructor.name} ${this.offCommands[i].constructor.name}\n`;
