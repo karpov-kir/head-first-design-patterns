@@ -43,3 +43,10 @@ TypeScript implementation of patterns from the Head First Design Patterns (Secon
     - `npm run chapter9Composite`
 - [Chapter 10: State Pattern](./src/chapter10State)
   - `npm run chapter10State`
+- [Chapter 11: Proxy Pattern](./src/chapter11Proxy)
+  - [Remote Proxy](./src/chapter11Proxy/remoteProxy)
+    - `npm run chapter11RemoteProxy`
+  - [Virtual Proxy](./src/chapter11Proxy/virtualProxy)
+    - `npm run chapter11VirtualProxy`
+  - [Protection Proxy](./src/chapter11Proxy/protectionProxy)
+    - `npm run chapter11ProtectionProxy`
