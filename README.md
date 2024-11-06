@@ -1,6 +1,6 @@
 <img alt="Head First Design Patterns Second Edition" src="HeadFirstDesignPatterns.jpg" width="200"/>
 
-TypeScript implementation of patterns from the Head First Design Patterns (Second Edition) book.
+A TypeScript implementation of patterns from the Head First Design Patterns (Second Edition) book.
 
 ## Usage
 
